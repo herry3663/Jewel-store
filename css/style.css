@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.carousel-caption {
+    bottom: 12.25rem;
+    font-size: 23px;
+
+}
+h5{
+    font-size: 1.25rem;
+}
